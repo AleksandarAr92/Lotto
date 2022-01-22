@@ -1,0 +1,2 @@
+# Lotto
+Standard Lotto game
